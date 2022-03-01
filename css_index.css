@@ -1,0 +1,94 @@
+.head_judul {
+    color: white;
+    font-size: 46px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.head_nav{
+    background-color: cadetblue;
+    align-content: center;
+    border-bottom: white solid;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+.foto img{
+    width: 210px;
+    height: 280px;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.biodata{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.box1{
+    width: 800px;
+    height: 200px;
+    background:transparent;
+    margin-top: 100px;
+    display: block;
+    margin: auto;
+    border: solid white;
+    border-width: 5px;
+}
+
+.box1_item1{
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.box1_item2{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.box2{
+    width: 800px;
+    height: 200px;
+    background:transparent;
+    margin-top: 100px;
+    display: block;
+    margin: auto;
+    border: solid white;
+    border-width: 5px;
+}
+
+.box2_item1{
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.box2_item2{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.link{
+    text-decoration: none;
+    color:brown;
+}
+
+
+
